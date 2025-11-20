@@ -6,7 +6,6 @@ This application is inspired by the apiMate.
 
 ## Usage
 
-![Usage](docs/usage.gif)
 
 or
 
